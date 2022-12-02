@@ -1,7 +1,6 @@
-import logo from './logo.svg';
 import './App.css';
-import React, { Component }  from 'react';
-import firebase from './FirebaseConfig'
+import React from 'react';
+// import firebase from './FirebaseConfig'
 
 function App() {
   return (
